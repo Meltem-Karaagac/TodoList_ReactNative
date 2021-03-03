@@ -36,9 +36,10 @@ const main = StyleSheet.create({
 const todo_input = StyleSheet.create({
     inputContainer: {
         backgroundColor: '#e0e0e0',
-        // padding: 10,
+        padding: 10,
         margin: 10,
-        borderRadius: 10
+        borderRadius: 10,
+
     },
     container: {
         backgroundColor: '#a7b6bd',
@@ -57,7 +58,8 @@ const todo_input = StyleSheet.create({
     buttonText: {
         color: 'white',
         fontWeight: 'bold',
-        textAlign: 'center'
+        textAlign: 'center',
+        fontSize: 18
     }
 })
 
