@@ -24,7 +24,7 @@ const main = StyleSheet.create({
         color: "#ff9b31"
     },
     todoCount: {
-        fontSize: 35,
+        fontSize: 40,
         color: "#ff9b31"
     },
     emptyComponent: {
