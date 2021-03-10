@@ -15,7 +15,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-<img src="./overview/todo.gif" height="500">|
+<img src="./overview/todo.gif" height="500">
 
 
 
@@ -39,7 +39,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ```bash
 
 $ git clone https://github.com/Meltem-Karaagac/TodoList_ReactNative
-
 
 $ npm install
 
