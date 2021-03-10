@@ -15,7 +15,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-<img src="./overview/todo.gif" height="500">
+<img src="./overview/TODOS.gif" height="500">
 
 
 
